@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    padding: 2px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.cell{
+    width: 30px;
+    height:30px;
+    background-color: gray;
+    color: gray;
+    
+}
+
+table{
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.stopwatch{
+    left: 50px;
+}
+
+.imoge{
+    margin: 0 auto;
+    width: 15px;
+}
+.imoge:hover{
+    cursor: pointer;
+}
+
+span{
+    display: none;
+}
+button{
+    margin: auto;
+    margin-top: 10px;
+}
